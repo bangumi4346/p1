@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/s4346/OneDrive/Documents/Revature/Spark/p1/project/"), "p1-build")...
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug] Done updating ProjectRef(uri("file:/C:/Users/s4346/OneDrive/Documents/Revature/Spark/p1/project/"), "p1-build")
